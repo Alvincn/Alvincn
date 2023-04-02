@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello Evertone 👋
 
-## 一个小小的前端攻城狮
+## Alvincn，一个小小的前端攻城狮
 
-喜爱技术，有想象力，想做出一切有用的网站。
+喜爱技术，有想象力，想做出一切对人们有用的网站。
+
 个人主页:http://www.ivikey.top
 
 ### Github 活跃度
