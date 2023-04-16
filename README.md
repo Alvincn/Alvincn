@@ -1,4 +1,4 @@
-### Hello Evertone 👋
+### Hello Everyone 👋
 
 ## 我是Alvincn，一个小小的前端工程师
 
